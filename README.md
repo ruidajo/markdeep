@@ -1,3 +1,28 @@
+**Attention**: This is a fork of repository for the excellent Markdeep format, 
+with just public issues openned.
+Markdeep has been used in [several use cases](https://casual-effects.com/markdeep/#examples): 
+API documentation
+Syllabus
+Game design document
+Homework assignment
+Lecture slides
+Software library website
+Game report
+Blog 1, Blog 2
+Curriculum Vitae (Resume)
+Thesis
+Guitar chord diagrams.
+We, at [mutabiT](https://mutabit.com/), are trying to promote Markdeep in a new use case: reproducible data narratives
+like the ones exemplified in [PetitParser: Building Modular Parsers](https://mutabit.com/repos.fossil/mutabit/doc/tip/wiki/en/petitparser-building-modular-parsers--ac8zq.md.html)
+and the [GIG portable wiki](https://mutabit.com/repos.fossil/gig/doc/trunk/wiki/en/gig-portable-wiki--1apbv.md.html).
+While doing this, we have explored the Markdeep's possibilities and limitations and,
+by openning issues and discussions, we would like to increase the public awareness of both.
+
+While you're invited to use this repository in such public conversatiosn,
+if you want to propose issues or discussions, please contact Morgan (Markdeep's author) by his preferred method (email).
+
+------
+
 # Markdeep
 Official public mirror of Markdeep by Morgan McGuire. BSD License.
 
