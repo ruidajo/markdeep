@@ -1,16 +1,16 @@
 **Attention**: This is a fork of [Markdeep's repository](https://github.com/morgan3d/markdeep) for such excellent format,
 with just public issues openned.
 Markdeep has been used in [several use cases](https://casual-effects.com/markdeep/#examples): 
-API documentation
-Syllabus
-Game design document
-Homework assignment
-Lecture slides
-Software library website
-Game report
-Blog 1, Blog 2
-Curriculum Vitae (Resume)
-Thesis
+API documentation,
+Syllabus,
+Game design document,
+Homework assignment,
+Lecture slides,
+Software library website,
+Game report,
+Blogs,
+Curriculum Vitae (Resume),
+Thesis,
 Guitar chord diagrams.
 We, at [mutabiT](https://mutabit.com/), are trying to promote Markdeep in a new use case: reproducible data narratives
 like the ones exemplified in [PetitParser: Building Modular Parsers](https://mutabit.com/repos.fossil/mutabit/doc/tip/wiki/en/petitparser-building-modular-parsers--ac8zq.md.html)
