@@ -1,4 +1,4 @@
-**Attention**: This is a fork of repository for the excellent Markdeep format, 
+**Attention**: This is a fork of [Markdeep's repository](https://github.com/morgan3d/markdeep) for such excellent format,
 with just public issues openned.
 Markdeep has been used in [several use cases](https://casual-effects.com/markdeep/#examples): 
 API documentation
